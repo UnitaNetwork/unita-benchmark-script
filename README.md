@@ -1,4 +1,4 @@
-# qtum-benchmark
+# unita-benchmark
 Tools for benchmarking Unita node
 
 # How it works
@@ -11,7 +11,7 @@ There are 2 stages:
 ```
 // Download the code and install dependencies
 $ git clone https://github.com/UnitaNetwork/unita-benchmark-script.git
-$ cd qtum-benchmark
+$ cd unita-benchmark-script
 $ npm install
 
 /**
